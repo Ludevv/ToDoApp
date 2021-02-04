@@ -1,0 +1,25 @@
+
+body {
+  margin: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+button {
+  /* width: 50px; */
+  font-size: 15px;
+  background: #fff;
+  border: 3px black solid;
+  margin-right: -3px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+
+
+span {
+  font-weight: bold;
+}
+
